@@ -12,8 +12,17 @@ h1{
 body{
   background-image: url("../images/1.jpg");
   background-repeat: repeat-x;
-  background-position: top;
+  background-position: cover;
   backface-visibility: hidden;
   opacity: 1;
-  padding-bottom: 860px;
+  padding-bottom: 720px;
+}
+.jumbotron{
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+  background-color: SandyBrown;
+  border-radius: 0.3rem;
+  opacity: 1.0;
+  font-weight: bold;
 }
