@@ -2,6 +2,7 @@ h1{
   padding-top: 20px;
   font-stretch: expanded;
   color: black;
+  font-weight: bold;
 }
 .navbar{
   padding-left: 20px;
@@ -11,8 +12,8 @@ h1{
 body{
   background-image: url("../images/1.jpg");
   background-repeat: repeat-x;
-  background-position: center;
+  background-position: top;
   backface-visibility: hidden;
-  opacity: 0.5;
-  padding-bottom: 720px;
+  opacity: 1;
+  padding-bottom: 860px;
 }
