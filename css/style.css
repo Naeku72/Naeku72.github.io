@@ -15,7 +15,7 @@ body{
   background-position: cover;
   backface-visibility: hidden;
   opacity: 1;
-  padding-bottom: 720px;
+  padding-bottom: hsl(360, 100%, 100%);px;
 }
 .jumbotron{
   padding: 2rem 1rem;
@@ -25,4 +25,10 @@ body{
   border-radius: 0.3rem;
   opacity: 1.0;
   font-weight: bold;
+}
+.important{
+  color: black;
+}
+.unimportant{
+ color: SandyBrown;
 }
