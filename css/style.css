@@ -17,6 +17,10 @@ body{
   opacity: 1;
   padding-bottom: hsl(360, 100%, 100%);px;
 }
+img{
+  width: 640px;
+  height: 420px;
+}
 .jumbotron{
   padding: 2rem 1rem;
   margin-bottom: 2rem;
@@ -33,11 +37,12 @@ body{
  color: SandyBrown;
 }
 .test-box {
-    border: 2px solid red;
+    border: 2px DarkSlateGrey;
+    border-style: double;
     padding: 6px;
     margin: 15px;
     height: 360px;
     width: 560px;
-    background-color: yellow;
+    background-color: Gainsboro;
     float: right;
   }
